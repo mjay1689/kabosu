@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'cookie-supply';
+					src: url('../fonts/7104Cookie-Supply.woff2') format('woff2'),
+						url('../fonts/7104Cookie-Supply.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.cookie-supply{font-family: 'cookie-supply' !important;}
+
+		
